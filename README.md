@@ -5,7 +5,7 @@
 ### <div align="center">I'm Mustafa, a full-time full-stack developer 👨‍💻
 ##### <div align="center">🌟 Elevating my web development skills and eager to team up on captivating projects! 🚀
 
-![Me](https://github.com/mostafakanaan/mostafakanaan/assets/39555267/d4dd54a2-5b08-4133-845d-443b35dbf6b8)
+![Me](https://github.com/mostafakanaan/mostafa.kanaan/assets/39555267/ac182eac-7589-4cb2-b284-a6c75c69c466)
   
 <div align="center"> <a href="https://github.com/mostafakanaan" target="_blank"> <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a><a href="https://twitter.com/mkanaan_de" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a><a href="https://linkedin.com/in/mos-kan" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a><a href="https://instagram.com/_mkanaan_" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a></div>
 
